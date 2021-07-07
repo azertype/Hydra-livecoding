@@ -1,5 +1,5 @@
 # Hydra-livecoding
-Directory where I share the code of my creation with Sonic Pi
+Directory where I share the code of my creation with Hydra Pi
 
 This work can (and must) be used, reproduced, remixed, shared, twisted, 
 modified, distributed, upcycled  
