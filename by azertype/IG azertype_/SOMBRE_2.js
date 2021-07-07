@@ -1,4 +1,6 @@
-//By azertype 
+//by azertype 
+//IG azertype_ 
+//soudcloud & youtube: azertype
 
 a.setScale (100)
 a.setBins (1)
